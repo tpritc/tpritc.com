@@ -3,7 +3,6 @@
     General:
     - Dark Grey:        181818
     - Medium Grey:      a7a7a7
-    - Light Grey:       d8d8d8
 
     Project:
     - Brand Amper:      595959
@@ -49,6 +48,14 @@ p {
     font-size: 20px;
     font-weight: normal;
     font-style: normal;
+}
+
+a {
+    color: #a7a7a7;
+}
+
+a:hover {
+    color: #a7a7a7;
 }
 
 .white {
