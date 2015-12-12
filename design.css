@@ -44,6 +44,10 @@ h3 {
     font-style: normal;
 }
 
+h3 a {
+    color: #181818;
+}
+
 h4 {
     font-size: 22px;
     font-weight: bold;
