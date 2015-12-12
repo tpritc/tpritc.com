@@ -44,7 +44,7 @@ h3 {
     font-style: normal;
 }
 
-h3 a {
+a h3 {
     color: #181818;
 }
 
@@ -64,17 +64,20 @@ p {
 
 a {
     color: #a7a7a7;
+    border-bottom: none;
+    text-decoration: none;
 }
 
 a:hover {
     color: #a7a7a7;
+    border-bottom: 1px dotted #a7a7a7;
+    text-decoration: none;
 }
 
-small {
-    font-size: 16px;
-    font-weight: normal;
-    font-style: normal;
-    line-height: 16px;
+.caption {
+    padding-top: 10px;
+    font-size: 14px;
+    line-height: 24px;
 }
 
 .no-padding {
@@ -89,6 +92,10 @@ small {
     font-size: 16px;
     padding: 0px;
     line-height: 18px;
+}
+
+.footer a {
+    color: #181818;
 }
 
 .right {
