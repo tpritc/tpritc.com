@@ -54,7 +54,7 @@ h4 {
     padding: 30px 0px 15px 0px;
 }
 
-p {
+p, li {
     font-size: 20px;
     font-weight: normal;
     font-style: normal;
@@ -78,6 +78,12 @@ a:hover {
     padding-top: 10px;
     font-size: 14px;
     line-height: 24px;
+}
+
+.quote {
+    padding-left: 20px;
+    font-style: italic;
+    border-left: 2px solid #a7a7a7;
 }
 
 .no-padding {
@@ -159,7 +165,10 @@ a:hover {
     top: 50px;
     list-style-type: none;
     padding-left: 0px;
-    line-height: 24px;
+}
+
+.side-list li {
+    line-height: 8px;
     font-size: 16px;
 }
 
