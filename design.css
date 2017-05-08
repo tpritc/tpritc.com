@@ -22,7 +22,7 @@
 ------------------------------------------------------------------------------*/
 
 body {
-    font-family: 'adobe-garamond-pro', Garamond, sans-serif;
+    font-family: 'adobe-garamond-pro', Garamond, serif;
     color: #181818;
 }
 
@@ -32,15 +32,15 @@ h1 {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 24px;
     font-weight: normal;
     font-style: italic;
     color: #a7a7a7;
 }
 
 h3 {
-    font-size: 22px;
-    font-weight: normal;
+    font-size: 24px;
+    font-weight: bold;
     font-style: normal;
 }
 
@@ -205,6 +205,10 @@ a:hover {
 
 .bg-chapters {
     background-color: #418CFF;
+}
+
+.bg-vizibl {
+  background-color: #0081A8;
 }
 
 
