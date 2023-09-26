@@ -1,9 +1,0 @@
-{
-  "actions" : {
-    "build" : {
-      "enabled" : true,
-      "script" : "bundle exec middleman build"
-    }
-  },
-  "identifier" : "3A487289-2F60-4B4C-9615-36E68883D698"
-}
